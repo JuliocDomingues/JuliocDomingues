@@ -1,5 +1,5 @@
 ### Hello there, I'm Julio
-<ul class="list">
+<ul style="list-style-type:none;">
   <li>:school_satchel: Computer Engineering student</li>
   <li>:computer: Computer Technician</li>
   <li>:bookmark_tabs: Artificial intelligence enthusiast</li>
