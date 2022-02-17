@@ -1,10 +1,10 @@
 ### Hello there, I'm Julio
 
-<br>
-
-<p>:school_satchel: Computer Engineering student</p>
-<p> :computer: Computer Technician</p>
-<p> :bookmark_tabs: Artificial intelligence enthusiast</p>
+<dl>
+  <dd><sub>:school_satchel: Computer Engineering student</sub></dd>
+  <dd><sub>:computer: Computer Technician</sub></dd>
+  <dd><sub>:bookmark_tabs: Artificial intelligence enthusiast</sub></dd>
+</dl>
 
   
 <div align="center">
