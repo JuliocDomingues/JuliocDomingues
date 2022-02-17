@@ -2,9 +2,9 @@
 
 ## About me
 <dl>
-  <dd><sub>:school_satchel: Computer Engineering student</sub></dd>
-  <dd><sub>:computer: Computer Technician</sub></dd>
-  <dd><sub>:bookmark_tabs: Artificial intelligence enthusiast</sub></dd>
+  <dd>:school_satchel: Computer Engineering student</dd>
+  <dd>:computer: Computer Technician</dd>
+  <dd>:bookmark_tabs: Artificial intelligence enthusiast</dd>
 </dl>
 
 ## GitHub Status  
