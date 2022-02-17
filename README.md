@@ -1,4 +1,4 @@
-## Salve
+## Hello there, I'm Julio
 <div align="center">
   <a href="https://github.com/JulioCDomingues">
   <img height="170em" width="auto" src="https://github-readme-stats.vercel.app/api?username=JuliocDomingues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
