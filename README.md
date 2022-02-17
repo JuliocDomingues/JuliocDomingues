@@ -13,6 +13,8 @@
   <img height="170em" width="auto" src="https://github-readme-stats.vercel.app/api?username=JuliocDomingues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="170em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliocDomingues&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+  
+## Programming languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="Julio-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
