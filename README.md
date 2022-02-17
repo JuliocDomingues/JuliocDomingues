@@ -1,10 +1,12 @@
 ### Hello there, I'm Julio
-<ul style="list-style-type:none;">
-  <li>:school_satchel: Computer Engineering student</li>
-  <li>:computer: Computer Technician</li>
-  <li>:bookmark_tabs: Artificial intelligence enthusiast</li>
-</ul>
 
+<br>
+
+<p>:school_satchel: Computer Engineering student</p>
+<p> :computer: Computer Technician</p>
+<p> :bookmark_tabs: Artificial intelligence enthusiast</p>
+
+  
 <div align="center">
   <a href="https://github.com/JulioCDomingues">
   <img height="170em" width="auto" src="https://github-readme-stats.vercel.app/api?username=JuliocDomingues&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
