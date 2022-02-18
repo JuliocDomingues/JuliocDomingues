@@ -5,6 +5,7 @@
   <dd>:school_satchel: Computer Engineering student</dd>
   <dd>:computer: Computer Technician</dd>
   <dd>:bookmark_tabs: Artificial intelligence enthusiast</dd>
+  <dd>:office: Intern - SESI</dd>  
 </dl>
 
 ## GitHub Status  
