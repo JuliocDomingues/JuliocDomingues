@@ -2,7 +2,7 @@
 
 ## About me
 <dl>
-  <dd>:school_satchel: Computer Engineering student</dd>
+  <dd>:school_satchel: Computer Engineering student at <a href = "https://www.ufms.br/">UFMS</a></dd>
   <dd>:computer: Computer Technician</dd>
   <dd>:bookmark_tabs: Artificial intelligence enthusiast</dd>
   <dd>:office: Intern at <a href = "https://www.sesims.com.br/">SESI</a></dd>  
