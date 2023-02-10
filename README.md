@@ -2,7 +2,7 @@
 
 ## About me
 <dl>
-  <dd>:computer: Computer engineer - <a href = "https://www.ufms.br/">UFMS</a></dd>
+  <dd>:mortar_board: Computer engineer - <a href = "https://www.ufms.br/">UFMS</a></dd>
   <dd>:computer: Computer Technician</dd>
   <dd>:bookmark_tabs: Artificial intelligence enthusiast</dd>
   <dd>:office: Software specialist at <a href = "https://www.sesims.com.br/">SESI</a></dd>  
